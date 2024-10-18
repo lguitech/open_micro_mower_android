@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- 绘制圆角矩形边界 -->
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="M0,0h24v24H0z" />
+
+    <!-- 绘制字母 M -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,21H0V3h3l9,8L21,3h3v18h-3l-9,-8L3,21z" />
+</vector>

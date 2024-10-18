@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppThemeWelcome" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+    </style>
+
+
+
+    <style name="TabTextSize" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/cardview_dark_background</item>
+    </style>
+
+
+</resources>

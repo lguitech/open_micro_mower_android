@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">MicroMower</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="lorem_ipsum" translatable="false">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="RemoteControl">RemoteCtl</string>
+    <string name="CreateMap">MapMng</string>
+    <string name="WorkControl">WorkCtl</string>
+    <string name="About">About</string>
+    <string name="BTStatus">BTStatus</string>
+    <string name="Connected">Connected</string>
+    <string name="Disconnected">Disconnected</string>
+    <string name="Search">Search</string>
+    <string name="LocationStatus">LocationStatus</string>
+    <string name="DataExpired">DataExpired</string>
+    <string name="Invalid">Invalid</string>
+    <string name="SinglePoint">SinglePoint</string>
+    <string name="FloatPoint">FloatPoint</string>
+    <string name="Fixed">Fixed</string>
+    <string name="VisualSatellites">VisualSatellites</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="AzimuthAngle">AzimuthAngle</string>
+    <string name="MowerStatus">MowerStatue</string>
+    <string name="AutopilotMode">AutopilotMode</string>
+    <string name="WheelSpeed">WheelSpeed</string>
+    <string name="PutterStatus">PutterStatus</string>
+    <string name="CutterStatus">CutterStatus</string>
+    <string name="EmergencyButton">EmergencyButton</string>
+    <string name="SafetyEdgeStatus">SafetyEdge</string>
+    <string name="BatteryStatus">BatteryStatus</string>
+    <string name="ChargingStatus">ChargingStatus</string>
+    <string name="Unknown">Unknown</string>
+    <string name="MowerStatusIdle">Idle</string>
+    <string name="MowerStatusMowing">Mowing</string>
+    <string name="MowerStatusPaused">Paused</string>
+    <string name="MowerStatusStuck">Stuck</string>
+    <string name="MowerStatusFault">Fault</string>
+    <string name="MowerStatusStruggling">Struggling</string>
+    <string name="MowerStatusTransferring">Transferring</string>
+    <string name="MowerStatusDocking">Docking</string>
+    <string name="MowerStatusReturnDock">ReturnDock</string>
+    <string name="AutoPilotMode_Auto">AutoPilot</string>
+    <string name="AutoPilotMode_RemoteCtl">RemoteControl</string>
+    <string name="LeftWheel">Left</string>
+    <string name="RightWheel">Right</string>
+    <string name="PutterStatusTop">Top</string>
+    <string name="PutterStatusBottom">Bottom</string>
+    <string name="PutterStatusDescending">Descending</string>
+    <string name="PutterStatusAscending">Ascending</string>
+    <string name="CutterStatusRotate">Rotate</string>
+    <string name="CutterStatusStop">Stop</string>
+    <string name="BatteryStatusLevel">BatteryLevel</string>
+    <string name="BatteryStatusVolt">Volt</string>
+    <string name="ChargingStatusCharging">Charging</string>
+    <string name="ChargingStatusNotCharging">NotCharging</string>
+    <string name="MowerStatusLocating">Locating</string>
+    <string name="EmergencyButtonPressed">Pressed</string>
+    <string name="EmergencyButtonNotPressed">NotPressed</string>
+    <string name="SafetyEdgeStatusNormal">Normal</string>
+    <string name="BTDeviceList">BTDeviceList</string>
+    <string name="BTPaired">Paired</string>
+    <string name="BTNotPaired">NotPaired</string>
+    <string name="BTConnectSuccess">Bluetooth Connected</string>
+    <string name="BTConnectFailed">Bluetooth connect failed</string>
+    <string name="StatusReset">Reset Sts.</string>
+    <string name="StartMowing">StartWork</string>
+    <string name="StopMowing">StopWork</string>
+    <string name="ReturnDock">Ret. Dock</string>
+    <string name="SendCommandFail">Mower state unknown, send cmd failed</string>
+    <string name="SendCommandSuccess">Send command success</string>
+    <string name="StartMapping">BuildMap</string>
+    <string name="StopMapping">StopBuild</string>
+    <string name="CheckMap">CheckMap</string>
+    <string name="PushMap">PushMap</string>
+    <string name="SelectType">SelectType</string>
+    <string name="Boundary">Boundary</string>
+    <string name="Channel">Channel</string>
+    <string name="Obstacle">Obstacle</string>
+    <string name="Dock">Dock</string>
+    <string name="MappingStatus">"MappingStatus: "</string>
+    <string name="MappingStatusMapping">Mapping</string>
+    <string name="MappingStatusStopped">Stopped</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ConfirmToEnd">Confirm to end</string>
+    <string name="Passed">Passed</string>
+    <string name="MapCheckResult">Map check result</string>
+    <string name="MapCheck">Map check</string>
+    <string name="Waiting">Waiting</string>
+    <string name="DockExisted">Dock existed</string>
+    <string name="Delete">Delete</string>
+    <string name="DataWillNotBeRecoverable">Data will not be recoverable</string>
+    <string name="ConfirmToDelete">confirm to delete</string>
+    <string name="MapCheckNotFinished">Map check not finished</string>
+    <string name="SendMapFail">Send map failed</string>
+    <string name="SendProgress">Send progress</string>
+    <string name="SendMapSuccess">Send map success</string>
+    <string name="StopMappinngFirst">Stop Mapping first</string>
+    <string name="StatusUnKnownCantSendCmd">Mower status unknown, can\'t send cmd</string>
+    <string name="MowerNotIdle">Mower is not in idle status</string>
+    <string name="WorkPath">Work path</string>
+    <string name="ErrHomeLocation">Dock location error</string>
+    <string name="ErrNoBoundary">No work boundary</string>
+    <string name="ErrObstacleLocation">Obstacle location error</string>
+    <string name="ErrChannelNoBoundaryConnect">Channle not connect any boundary</string>
+    <string name="ErrChannelConnectObstacle">Channel connect obstacle</string>
+    <string name="ErrChannleConnectOneBoundary">Channel connect only one boundary</string>
+    <string name="ErrBoundaryIntersect">Boundary intersect error</string>
+    <string name="ErrBoundaryNotConnect">Boundaries are isolated from each other</string>
+    <string name="MowerVersionInfo">"MowerVersion: "</string>
+    <string name="AppVersionInfo">AppVersion:</string>
+    <string name="CheckUpgrade">Check Upgrade</string>
+    <string name="UnknowMowerVersion">The mower version is unknown,Please start the lawn mower and connect to Bluetooth.</string>
+    <string name="AlreadyUpdate">Already up-to-date</string>
+    <string name="LatestVersionIs">The latest version is</string>
+    <string name="StartUpgrade">Start the upgrade</string>
+    <string name="CheckLastestVersion">Check the lastest version</string>
+    <string name="LinkWIFIFirstly">Connect to WiFi firstly</string>
+    <string name="WIFISSID">WIFI SSID</string>
+    <string name="WIFIPassword">WIFI Password</string>
+    <string name="CurrentVersionIs">Current version is</string>
+    <string name="NetworkFail">Network fail</string>
+    <string name="ConfirmUpgrade">Comfirm to upgrade</string>
+    <string name="EnterWIFIpassword">Enter Wi-Fi password</string>
+    <string name="UpgradeFinished">Upgrade finished!</string>
+    <string name="OtaNetworkFail">OTA network fail</string>
+    <string name="OtaDownloadFail">OTA download fail</string>
+    <string name="OtaUnzipFail">OTA unzip fail</string>
+    <string name="OtaInProgress">OTA in progress</string>
+    <string name="Reboot">Rebooting......</string>
+    <string name="FrontSonarState">FrontSonar(L-M-R)</string>
+    <string name="RearSonarState">RearSonar(L-M-R)</string>
+</resources>
